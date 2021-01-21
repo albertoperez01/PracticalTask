@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Practical Task</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_droid_cafe">Droid Cafe</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="intro_text">Droid Desserts</string>
+    <string name="choose_a_dessert">Choose a dessert</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy</string>
+    <string name="ice_cram_sandwiches">Ice cream sandwiches have chocolate wafer and vanilla filling</string>
+    <string name="froyo">FroYo is premium self-serve frozen yogurt</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo</string>
+    <string name="choose_deliver_method">Choose a deliver method:</string>
+    <string name="chosen">Chosen:</string>
+    <string name="nothing_clicked">onRadioButtonClicked: Nothing clicked.</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick Up</string>
+    <string-array name="phonePlaces">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="choose_datetime">Choose the date and time:</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+</resources>
